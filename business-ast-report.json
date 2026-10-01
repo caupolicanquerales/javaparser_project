@@ -1,0 +1,13 @@
+[ {
+  "className" : "JavapaserApplication",
+  "packageName" : "com.capo.javapaser",
+  "isInterface" : false,
+  "annotations" : [ "SpringBootApplication" ],
+  "javadoc" : ""
+}, {
+  "className" : "JavaParserService",
+  "packageName" : "com.capo.javapaser.service",
+  "isInterface" : false,
+  "annotations" : [ "Service" ],
+  "javadoc" : ""
+} ]
